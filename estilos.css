@@ -1,0 +1,26 @@
+body{
+    font-family: 'Lora', serif;
+}
+h1{
+    color:ghostwhite;
+    background-color:orangered;
+    font-family: 'Unbounded', cursive;
+    text-align: center;
+    font-size: xxx-large;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    color: rgb(0, 0, 43);
+    font-family: 'Quicksand', sans-serif;
+}
+h3{
+    color: darkslategrey;
+    font-family: 'Quicksand', sans-serif;
+}
+strong{
+    color:darkred;
+}
+em{
+    font-style: oblique;
+}
