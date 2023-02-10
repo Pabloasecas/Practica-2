@@ -42,8 +42,11 @@ button{
     font-size: 16px;
     font-family: 'Quicksand', sans-serif;
     margin: auto;
-    margin-top: 10px;
-    margin-right: 50%;
+    margin-top: 20px;
+    margin-left: 290px;
+    border-color: navajowhite;
+    box-shadow: 3px 3px 3px grey;
+    border-style: none;
 }
 /*estos comandos afectan a la forma de las tarjetas*/
 .container{
