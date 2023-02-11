@@ -42,8 +42,7 @@ button{
     display: inline-block;
     font-size: 16px;
     font-family: 'Quicksand', sans-serif;
-    margin: 0 auto;
-    margin-top: 20px;
+    margin: 20px auto;
     border-color: navajowhite;
     box-shadow: 3px 3px 3px grey;
     border-style: none;
