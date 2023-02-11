@@ -31,7 +31,7 @@ ol{
 ul{
     font-family: 'Lora', serif;
 }
-button{
+.button{
     background-color: orange;
     max-width: 300px;
     border-radius: 5px;
