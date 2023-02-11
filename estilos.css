@@ -33,6 +33,7 @@ ul{
 }
 button{
     background-color: orange;
+    max-width: 300px;
     border-radius: 5px;
     color: black;
     padding: 15px 15px;
