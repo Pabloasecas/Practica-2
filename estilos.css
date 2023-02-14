@@ -49,6 +49,9 @@ ul{
     font-family: 'Quicksand', sans-serif;
     box-shadow: 3px 3px 3px grey;
 }
+a:link{
+    text-decoration: none;
+}
 /*estos comandos afectan a la forma de las tarjetas*/
 .container{
     max-width: 900px;
