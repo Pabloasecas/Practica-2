@@ -50,7 +50,16 @@ ul{
     box-shadow: 3px 3px 3px grey;
 }
 a:link{
-    text-decoration-line: none;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 20px;
+}
+a:visited{
+    color: red;
+}
+a:active{
+    background-color: fuchsia;
 }
 /*estos comandos afectan a la forma de las tarjetas*/
 .container{
