@@ -50,7 +50,7 @@ ul{
     box-shadow: 3px 3px 3px grey;
 }
 a:link{
-    text-decoration: none;
+    text-decoration-line: none;
 }
 /*estos comandos afectan a la forma de las tarjetas*/
 .container{
