@@ -52,11 +52,11 @@ ul{
 a:link{
     text-decoration: none;
 }
-a:hover{
-    text-decoration: underline;
-}
 a.button:hover{
     font-size: 110%;
+}
+a:hover{
+    text-decoration: underline;
 }
 a:visited{
     color: red;
@@ -86,4 +86,7 @@ img{
     width: 100%;
     height: auto;
     margin-bottom: 20px;
+}
+dt{
+    font-weight: bold;
 }
