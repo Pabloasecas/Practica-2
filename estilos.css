@@ -53,7 +53,7 @@ a:link{
     text-decoration: none;
 }
 a:hover{
-    font-size: 120%;
+    text-decoration: underline;
 }
 a:visited{
     color: red;
