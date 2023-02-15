@@ -55,11 +55,14 @@ a:link{
 a:hover{
     text-decoration: underline;
 }
+a.button:hover{
+    font-size: 110%;
+}
 a:visited{
     color: red;
 }
 a:active{
-    background-color: fuchsia;
+    background-color:forestgreen;
 }
 /*estos comandos afectan a la forma de las tarjetas*/
 .container{
