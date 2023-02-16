@@ -3,7 +3,6 @@ body{
 }
 h1{
     color:ghostwhite;
-    background-color:orangered;
     font-family: 'Unbounded', cursive;
     text-align: center;
     font-size: xxx-large;
@@ -69,6 +68,12 @@ a:active{
     color: gold;
 }
 /*estos comandos afectan a la forma de las tarjetas*/
+.encabezado{
+    max-height: 100px;
+    background-color: orangered;
+    justify-content: center;
+    padding: 20px;
+}
 .container{
     max-width: 900px;
     margin: auto;
