@@ -60,10 +60,13 @@ a:hover{
     text-decoration: underline;
 }
 a:visited{
-    color: red;
+    color: blueviolet;
+}
+a.button:active{
+    background-color:forestgreen;
 }
 a:active{
-    background-color:forestgreen;
+    color: gold;
 }
 /*estos comandos afectan a la forma de las tarjetas*/
 .container{
