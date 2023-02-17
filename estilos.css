@@ -69,10 +69,10 @@ a:active{
 }
 /*estos comandos afectan a la forma de las tarjetas*/
 .encabezado{
-    max-height: 100px;
+    height: auto;
     background-color: orangered;
     justify-content: center;
-    padding: 20px;
+    padding: 30px;
 }
 .tit-encabezado{
     margin: auto;
