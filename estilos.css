@@ -74,7 +74,7 @@ a:active{
     justify-content: center;
     padding: 20px;
     margin-top: 0;
-    width: max-content;
+    width: 100%;
 }
 .tit-encabezado{
     margin: auto;
