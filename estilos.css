@@ -74,8 +74,7 @@ a:active{
     justify-content: center;
     padding: 20px;
     margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
+    width: max-content;
 }
 .tit-encabezado{
     margin: auto;
