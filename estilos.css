@@ -73,6 +73,9 @@ a:active{
     background-color: orangered;
     justify-content: center;
     padding: 30px;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
 }
 .tit-encabezado{
     margin: auto;
