@@ -68,7 +68,7 @@ a.button:active{
 a:active{
     color: gold;
 }
-/*estos comandos afectan a la forma de las tarjetas*/
+/*estos comandos afectan a la forma de las tarjetas y el encabezado*/
 .encabezado{
     height: auto;
     background-color: orangered;
